@@ -23,8 +23,8 @@ Actualmente estoy cursando la Ingenieria en Informatica en la UPTP J.J Montilla 
 
 <br>
 <br>
-<img aling='left' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="430" />
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Enyel04&show_icons=true&theme=dark&locale=en&layout=compact" alt="Enyel04" width="500"  />
+<img aling='' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="430" />
+  <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs?username=Enyel04&show_icons=true&theme=dark&locale=en&layout=compact" alt="Enyel04" width="500"  />
 
 
 
