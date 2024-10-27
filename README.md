@@ -1,42 +1,35 @@
-[I believe in center aligned 🤲]: #
-
 <div align="center">
   
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+  <div id="header">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
   
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
-<div id="badges">
+  <div id="badges">
+    <a href="https://angelmendezportafolio.netlify.app">
+      <img src="https://img.shields.io/badge/Portafolio-black?style=for-the-badge" alt="Portafolio Badge"/>
+    </a>
+  </div>
+  
+  ### 👋 ¡Saludos! Mi nombre es **Angel Mendez**.
+  
+  <p align="left" style="max-width: 600px;">
+    Actualmente estoy cursando la Ingeniería en Informática en la UPTP J.J Montilla en Venezuela. Soy un gran fanático de seguir aprendiendo nuevas tecnologías. Mi visión está enfocada en el frontend, pero también trabajo en el backend cuando es necesario. Puedo aportar ideas frescas y demostrar lo que he aprendido.
+  </p>
+  
+  <br><br>
 
-<a href="https://angelmendezportafolio.netlify.app">
-  <img src="https://img.shields.io/badge/Portafolio-black?style=for-the-badge" alt="Youtube Badge"/>
-</a>
-</div>
+  <img align="center" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />
 
-
-### Saludos Mi nombre es **Angel Mendez**.
-<div align='left'>
-Actualmente estoy cursando la Ingenieria en Informatica en la UPTP J.J Montilla en Venezuela. Gran fanatico en seguir aprendiendo nuevas tecnologias mi visión es mas hacia el frontend, pero tambien manejo el backend cuando es necesario de usar, puedo aportar lluvia de ideas y demostrar lo que estoy preparado.
-</div>
-
-<br>
-<br>
-<img aling='' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="430" />
-  <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs?username=Enyel04&show_icons=true&theme=dark&locale=en&layout=compact" alt="Enyel04" width="500"  />
-
-
-
-
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-
-
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enyel04&count_private=true&show_icons=true&theme=dark)](https://github.com/Enyel04/github-readme-stats)
+  <br><br>
+  
 
 
 
+  <div align="center" style="margin:600px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enyel04&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages"  width="400"/>
+    <a href="https://github.com/Enyel04/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Enyel04&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"   width="525"/>
+    </a>
+  </div>
 
-
- 
 </div>
